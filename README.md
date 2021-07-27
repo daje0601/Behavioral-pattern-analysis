@@ -12,3 +12,8 @@
 - 데이터 출처 : AI 허브
 
 - 완료된 현황
+  * 앱별 이동현황
+![image](https://user-images.githubusercontent.com/73736988/127113834-03d1b868-fa5f-4942-8778-ba87dd581e32.png)
+  
+  * 장르별 이동현황
+![image](https://user-images.githubusercontent.com/73736988/127113862-bfee71f3-7cad-43ba-9f81-fe716696c3a5.png)
